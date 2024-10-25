@@ -21,6 +21,10 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+
 
 ### Full Stack Projects
 [![](https://img.shields.io/badge/-📝%20To--Do%20List-000)](https://github.com/FredZ6/task_manager_app)
