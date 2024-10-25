@@ -1,7 +1,7 @@
 ### Hi, I am Fred Zhang, a passionate full-stack developer.
 
 
-### Languages
+#### Languages
 
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
@@ -11,7 +11,7 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-### Technologies
+#### Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
@@ -26,7 +26,7 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
 
-### Full Stack Projects
+#### Full Stack Projects
 [![](https://img.shields.io/badge/-📝%20To--Do%20List-000)](https://github.com/FredZ6/task_manager_app)
 
 
