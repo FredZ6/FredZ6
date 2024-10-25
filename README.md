@@ -1,8 +1,9 @@
-### Hi, I am Fred Zhang, a passionate full-stack developer.
+### Hi, I am Fred Zhang, a passionate full stack developer. 
+### I am a freshly graduated computer science student learning full stack development knowledge.
+#
 
 
 #### Languages
-
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
