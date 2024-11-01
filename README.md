@@ -12,7 +12,7 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-#### Technologies
+#### Technologies / Tools
 
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
