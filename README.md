@@ -22,6 +22,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js&logoColor=FFFFFF)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=Tailwind%20CSS)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-000?&logo=Material%20UI)
