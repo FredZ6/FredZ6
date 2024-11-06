@@ -1,5 +1,5 @@
-### Hi, I am Fred Zhang, a passionate full stack developer. 
-### I am a freshly computer science graduated.
+### Hi, I am Fred Zhang, a passionate full-stack developer. 
+### I am a fresh computer science graduate.
 #
 
 
