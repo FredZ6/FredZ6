@@ -32,7 +32,3 @@
 
 
 
-#### Full Stack Projects
-[![](https://img.shields.io/badge/-📝%20To--Do%20List-000)](https://github.com/FredZ6/task_manager_app)
-
-
